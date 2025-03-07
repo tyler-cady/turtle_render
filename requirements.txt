@@ -1,0 +1,5 @@
+torch
+diffusers
+Pillow
+opencv-python
+numpy
