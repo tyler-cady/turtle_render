@@ -3,3 +3,5 @@ diffusers
 Pillow
 opencv-python
 numpy
+transformers
+
